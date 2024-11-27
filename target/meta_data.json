@@ -1,0 +1,20 @@
+{
+    "hello_world": {
+        "files": [
+            "main.exe",
+            "main.go"
+        ]
+    },
+    "rock_paper_scissors": {
+        "files": [
+            "code.exe",
+            "code.go"
+        ]
+    },
+    "simon_says": {
+        "files": [
+            "file.exe",
+            "file.go"
+        ]
+    }
+}
